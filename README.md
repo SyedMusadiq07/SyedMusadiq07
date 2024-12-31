@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1600/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
-<h1 align="center">Hi 👋, I'm Syed Musadiq</h1>
+# Hello World!, I'm Musadiq👋🏼:
 <h3 align="center">Mastering the Art of Problem Solving with DSA</h3>
 <img align ="right" alt ="Coding" width ="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
