@@ -3,7 +3,7 @@
 <h3 align="center">Mastering the Art of Problem Solving with DSA</h3>
 <img align ="right" alt ="Coding" width ="400" src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmusadiq07&label=Profile%20views&color=0e75b6&style=flat" alt="SyedMusadiq07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedMusadiq07&label=Profile%20views&color=0e75b6&style=flat" alt="SyedMusadiq07" /> </p>
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
