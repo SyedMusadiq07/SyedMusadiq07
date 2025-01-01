@@ -23,8 +23,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMusadiq07/SyedMusadiq07/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SyedMusadiq07/SyedMusadiq07/output/github-snake.svg" />
 </picture>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmusadiq07&show_icons=true&locale=en&layout=compact" alt="syedmusadiq07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedMusadiq07&show_icons=true&locale=en&layout=compact" alt="SyedMusadiq07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmusadiq07&show_icons=true&locale=en" alt="syedmusadiq07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedMusadiq07&show_icons=true&locale=en" alt="SyedMusadiq07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmusadiq07&" alt="SyedMusadiq07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMusadiq07&" alt="SyedMusadiq07" /></p>
