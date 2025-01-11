@@ -5,19 +5,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3800&lines=Hello+World!+👋;+I'm+Syed+Musadiq!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <br/>
 
 <div align="center">
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+ 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 💬 Ask me about **DSA**
+ 💬 Ask me about **DSA**
 
-- 📫 How to reach me **syed.musadiq070@gmail.com**
+ 📫 How to reach me **syed.musadiq070@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+ ⚡ Fun fact **I am funny**
 
 </div>
 
@@ -61,10 +61,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SyedMusadiq07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SyedMusadiq07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SyedMusadiq07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -73,8 +73,6 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+
 
 <br/>
