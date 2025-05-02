@@ -10,11 +10,7 @@
 <br/>
 
 <div align="center">
-
- 🌱 I’m currently learning **Data Structures And Algorithms**
-
- 💬 Ask me about **DSA**
-
+    
  📫 How to reach me **syed.musadiq070@gmail.com**
 
  ⚡ Fun fact **I am funny**
