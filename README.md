@@ -5,4 +5,4 @@
   </div>
 </div>
 
-![snake gif](https://github.com/SyedMusadiq07/SyedMusadiq07E/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/SyedMusadiq07/SyedMusadiq07/blob/output/github-snake-dark.svg)
