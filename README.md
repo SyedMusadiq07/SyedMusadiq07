@@ -5,4 +5,15 @@
   </div>
 </div>
 
+## Hacktoberfest 2025 Badges 
+
+<p align="center">
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150"/>
+</p>
+
 ![snake gif](https://github.com/SyedMusadiq07/SyedMusadiq07/blob/output/github-snake-dark.svg)
