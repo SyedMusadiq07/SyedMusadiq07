@@ -17,3 +17,9 @@
 </p>
 
 ![snake gif](https://github.com/SyedMusadiq07/SyedMusadiq07/blob/output/github-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SyedMusadiq07/SyedMusadiq07/blob/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SyedMusadiq07/SyedMusadiq07/blob/output/github-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://github.com/SyedMusadiq07/SyedMusadiq07/blob/output/github-snake-dark.svg"/>
+</picture>
